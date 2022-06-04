@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋   <img align="right" alt="code-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
  ##
  #### Welcome to my GitHub profile!
  I’m Brenne 👨‍💻
@@ -23,7 +23,7 @@
    <img align="center" alt="Brenne-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Brenne-MS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   
-  <img align="right" alt="code-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 </div>
  
  #### My stats:
