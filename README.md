@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning C# and ecosystem .NET
 - 💬 Ask me anything and I’ll try to help you.
 - 🔭 Fun fact: I love astronomy and things about space 
-#### My techologies stack:
+#### My technologies stack:
  ##
 <div style="display: inline_block"><br>
  
