@@ -5,7 +5,7 @@
  
  #### What I’m doing:
 - 🚀 I’m currently a student of the 6th period of graduation in Computer Science at UESPI
-- 🌱 I’m currently learning C# and ecosystem .NET
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me anything and I’ll try to help you.
 - 🔭 Fun fact: I love astronomy and things about space 
 #### My technologies stack:
