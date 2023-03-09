@@ -4,7 +4,7 @@
  I’m Brenne 👨‍💻
  
  #### What I’m doing:
-- 🚀 I’m currently a student of the 6th period of graduation in Computer Science at UESPI
+- 🚀 I’m currently a student of the 8th period of graduation in Computer Science at UESPI
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me anything and I’ll try to help you.
 - 🔭 Fun fact: I love astronomy and things about space 
